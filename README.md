@@ -307,6 +307,17 @@ claw logs tail
 
 ---
 
+📚 Documentation
+
+- [Getting Started](docs/GETTING_STARTED.md)
+- [Installation](docs/INSTALLATION.md)
+- [Configuration](docs/CONFIGURATION.md)
+- [Security Model](docs/SECURITY_MODEL.md)
+- [Roadmap](docs/ROADMAP.md)
+
+
+---
+
 ⚙️ Configuration
 
 Конфіг за замовчуванням живе в ~/.bodhanclaw/config.yml:
@@ -553,6 +564,12 @@ Claw — інструмент, що виконує роботу, але ніко
 
 Разом: BodhanClaw — AI-агент, який сильний, але завжди під твоїм контролем.
 
+
+---
+
+Authors
+
+Built with ❤️ by Bohdan Martseniuk and ChatGPT (GPT-5.1 Thinking, OpenAI) as co-architects of BodhanClaw.
 
 ---
 

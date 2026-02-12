@@ -1,0 +1,23 @@
+﻿{
+  "name": "bodhanclaw",
+  "version": "0.0.1-alpha",
+  "description": "Local-first, security-first AI agent runtime (scaffold)",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "bin": {
+    "claw": "dist/cli/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli/cli.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "yaml": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  },
+  "license": "MIT"
+}
